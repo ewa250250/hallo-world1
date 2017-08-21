@@ -2,3 +2,4 @@
 pierwszy mój
 jestem Ewa. jestem z Gdańska.
 drugi coś tam
+trzeci
